@@ -1,0 +1,3 @@
+/home/xiaosa/desktop/skip_list_kv_engine/CMakeFiles/main.dir
+/home/xiaosa/desktop/skip_list_kv_engine/CMakeFiles/edit_cache.dir
+/home/xiaosa/desktop/skip_list_kv_engine/CMakeFiles/rebuild_cache.dir

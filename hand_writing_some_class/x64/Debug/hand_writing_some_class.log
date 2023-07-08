@@ -1,0 +1,3 @@
+﻿  main.cpp
+x64\Debug\MyThreadPool.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  hand_writing_some_class.vcxproj -> C:\Users\DELL\Desktop\visual studio  program\hand_writing_some_class\x64\Debug\hand_writing_some_class.exe
